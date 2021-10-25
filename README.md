@@ -1,5 +1,5 @@
 ## Oi, tudo bem? Sou o Igor!
-  <div align="center">
+  <div align="start">
   <a href="https://github.com/igorsouzaa98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorsouzaa98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsouzaa98&layout=compact&langs_count=7&theme=dark"/>
@@ -9,7 +9,7 @@
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" height= "40" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" height ="40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="right" alt="south" height="150" style="border-radius:50px" src="https://user-images.githubusercontent.com/92556719/138636697-ad12cb61-dc70-4e71-aa4e-20490a9ee3bb.png">
+    <img align="right" alt="south" height="200" style="border-radius:50px" src="https://user-images.githubusercontent.com/92556719/138636697-ad12cb61-dc70-4e71-aa4e-20490a9ee3bb.png">
   </div> 
   
   ##
