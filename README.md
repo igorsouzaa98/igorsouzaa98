@@ -1,8 +1,8 @@
 ## Oi, tudo bem? Sou o Igor!
-  <div align="start">
+  <div align="center">
   <a href="https://github.com/igorsouzaa98">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorsouzaa98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsouzaa98&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igorsouzaa98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorsouzaa98&layout=compact&langs_count=7&theme=dark"/>
   </div>
 
   <div style="display: inline_block"><br>
