@@ -9,7 +9,7 @@
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" height= "40" width ="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     <img align="center" height ="40" width= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img align="right" alt="south" height="150" style="border-radius:50px" src="https://discordapp.com/channels/710676993170997298/710676994358247518/902055961290735657">
+    <img align="right" alt="south" height="150" style="border-radius:50px" src="https://user-images.githubusercontent.com/92556719/138636697-ad12cb61-dc70-4e71-aa4e-20490a9ee3bb.png">
   </div> 
   
   ##
